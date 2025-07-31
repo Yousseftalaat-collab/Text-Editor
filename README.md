@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yousseftalaat-collab/assets/main/text-editor-preview.png" width="600" alt="Text Editor Screenshot"/>
+  <img src="[https://raw.githubusercontent.com/Yousseftalaat-collab/assets/main/text-editor-preview.png](https://github.com/Yousseftalaat-collab/Text-Editor/blob/main/screenshot.png)" width="600" alt="Text Editor Screenshot"/>
 </p>
 
 ---
