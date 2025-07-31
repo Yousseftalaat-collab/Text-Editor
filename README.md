@@ -21,20 +21,19 @@
 
 ---
 
-<h2>▶️ How to Run</h2>
+<h2>How to Run</h2>
 
-<h3>💻 Requirements</h3>
+<h3>Requirements</h3>
 <ul>
   <li>Python 3 installed</li>
 </ul>
 
-<h3>📦 Run the Script</h3>
-
-```bash
+<h3>Run the Script</h3>
 python text_editor.py
-<h2>🔧 Technologies Used</h2>
+
+<h2>Technologies Used</h2>
  <ul>
  <li>Python 3</li>
  <li>Tkinter — Python’s built-in GUI package</li>
  </ul>
-<h2>👨‍💻 Author</h2> <p>Made with ❤️ by <strong>Youssef Talaat</strong></p> 
+<h2>👨‍💻 Author</h2> <p>Made by <strong>Youssef Talaat</strong></p> 
